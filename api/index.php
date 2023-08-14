@@ -47,7 +47,7 @@ if (isset($_SESSION["autenticado"]) && $_SESSION["autenticado"]) {
 </head>
 
 <body>
-  <iframe src="https://ideias-chatgpt4-gratis.hf.space"></iframe>
+  <iframe src="https://chat.ylokh.xyz/"></iframe>
 
   <!-- Adicionando o JS do Bootstrap (opcional, apenas se quiser recursos interativos) -->
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
